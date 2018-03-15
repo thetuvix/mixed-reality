@@ -88,7 +88,7 @@ Hardware
 <h3 class="text-title spacer-12-bottom" style="margin-top:15px;">
 Building 2D apps
 </h3><div>
-<p><a href="building-2d-apps.md">Building 2D apps</a></p><p><a href="current-limitations-for-apps-using-apis-from-the-shell.md">Current limitations for apps using APIs from the shell</a></p>
+<p><a href="building-2d-apps.md">Building 2D apps</a></p>
 </div>
 </div>
 </div>
